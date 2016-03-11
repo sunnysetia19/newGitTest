@@ -8,3 +8,4 @@
 
 6. git push. for pushing file to github. will ask for login information.
 
+7. esc :wq => used for coming out of git commit when no message is passed.
